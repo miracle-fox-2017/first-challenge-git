@@ -10,4 +10,5 @@ Motivasi saya mengikuti coding bootcamp di Hacktiv8 karena saya ingin mengasah s
 ## Ekspektasi
 Saya berharap setelah saya lulus dari Hacktiv8, saya memiliki kemampuan fundamental programming yang kuat, sehingga saya bisa mengikuti perkembangan teknologi yang pesat dan bisa menjadi seorang developer.
 
+
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
