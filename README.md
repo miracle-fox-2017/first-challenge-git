@@ -11,3 +11,4 @@ Ingin mencoba berkarir di software engineering.
 Berkarir di software engineering.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
+Belum ada
